@@ -1,2 +1,1 @@
-# human
-human genome
+# Human genome
